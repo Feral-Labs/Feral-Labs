@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://github.com/Feral-Labs/Feral-Labs/blob/main/profile-photo.jpg?raw=true" alt="Mshauri Moore" width="200" style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 0 30px rgba(99, 102, 241, 0.5);" />
-
 # Mshauri Moore
 ### Founder & CEO | AI Innovation Architect | Enterprise Solutions Leader
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+the+Future+of+AI+%26+Automation;Transforming+Vision+into+Scalable+Solutions;Leading+Feral+Labs+LLC+to+Innovation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+the+Future+of+AI+%26+Automation;jTransforming+Vision+into+Scalable+Solutions;Leading+Feral+Labs+LLC+to+Innovation" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mshaurimoore/)
 [![Website](https://img.shields.io/badge/Website-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ferallabs.com)
